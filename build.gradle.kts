@@ -1,5 +1,6 @@
 plugins {
     id("java")
+    kotlin("jvm") version "2.3.0"
 }
 
 group = "org.example"
